@@ -1,0 +1,8 @@
+*
+!Dockerfile
+!requirements.txt
+!infer.py
+!baseline/
+!baseline/*.py
+!weights/
+!weights/submission_v2.pt
